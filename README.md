@@ -7,11 +7,11 @@ Yet another dialect of Brainfuck using Hakke system
 Each Hakke character corresponds to Brainfuck command
 
 ☰ : >  
-☱ : <  
-☲ : +  
-☳ : -  
-☴ : .  
-☵ : ,  
+☷ : <  
+☳ : +  
+☴ : -  
+☵ : .  
+☲ : ,  
 ☶ : [  
-☷ : ]  	
+☱ : ]  	
 
